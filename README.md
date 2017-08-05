@@ -1,4 +1,5 @@
-[OpenELEC](http://www.openelec.tv)
+Welcome to my humble attempt to make OpenELEC viable on 32 bit systems.  Please feel free to contribute.  This is a side hobby, but one I want to see grow.  I am by no means an expert, but would love to see the community come together, grow
+and experiment.
 
 # OpenELEC - Open Embedded Linux Entertainment Center
 
